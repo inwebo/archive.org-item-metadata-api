@@ -18,7 +18,7 @@ Key features:
 Install the package via Composer:
 
 ```bash
-composer require inwebo/item-metadata
+composer require inwebo/archive.org-item-metadata-api
 ```
 
 ## API Documentation
